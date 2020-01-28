@@ -1,1 +1,9 @@
 The list of books in this repository: 
+
+  Name: Kent, William
+  Date: 1851
+  Title: INVESTIGATING AN INDUSTRY; A SCIENTIFIC DIAGNOSIS OF THE DISEASES OF MANAGEMENT
+  Description: The book "relates to the application of the principles of scientific management to all industrial problems,  including those of distribution and selling, and incidentally treats of some of the causes of the 'high cost of living.'"
+  
+  
+  
