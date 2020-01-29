@@ -12,8 +12,16 @@ The list of books in this repository:
   Description: A story about the complex character, John Bull. Set in England(?).
   Link: https://raw.githubusercontent.com/Trixter9994/Bibliotheca-Obscurum/master/books/John_Bull_Limited.pdf
   
+  Author: Morton, Adeline Drinkwater
+  Date: 1913
+  Title: Messages from mother; the little poems of Adeline Drinkwater Morton
+  Decription: A book of poems.
+  Link: https://raw.githubusercontent.com/Trixter9994/Bibliotheca-Obscurum/master/books/Messages_From_Mother.pdf
+  
   Author: Morley, Margaret Warner
   Date: 1905
   Title: The Bee People
   Description: A book describing the anatomy and life cycle of a bee hive. 
   Link: https://raw.githubusercontent.com/Trixter9994/Bibliotheca-Obscurum/master/books/The_Bee_People.pdf
+
+  
