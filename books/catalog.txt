@@ -36,4 +36,9 @@ The list of books in this repository:
   Description: A book describing the anatomy and life cycle of a bee hive. 
   Link: https://raw.githubusercontent.com/Trixter9994/Bibliotheca-Obscurum/master/books/The_Bee_People.pdf
 
+  Author: Morley, Margaret Warner
+  Date: 1903
+  Title: The Insect Folk
+  Description: A book describing various insects.
+  Link: https://raw.githubusercontent.com/Trixter9994/Bibliotheca-Obscurum/master/books/The_Insect_Folk.pdf
   
