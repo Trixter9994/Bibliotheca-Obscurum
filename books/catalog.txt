@@ -35,10 +35,23 @@ The list of books in this repository:
   Title: The Bee People
   Description: A book describing the anatomy and life cycle of a bee hive. 
   Link: https://raw.githubusercontent.com/Trixter9994/Bibliotheca-Obscurum/master/books/The_Bee_People.pdf
-
+  
+  Author: Horace E. Scudder
+  Date: 1899
+  Title: The Book of Legends (Told Over Again)
+  Description: A book containing various short stories about different "Legends".
+  Link: https://raw.githubusercontent.com/Trixter9994/Bibliotheca-Obscurum/master/books/The_Book_of_Legends.pdf
+  
   Author: Morley, Margaret Warner
   Date: 1903
   Title: The Insect Folk
   Description: A book describing various insects.
   Link: https://raw.githubusercontent.com/Trixter9994/Bibliotheca-Obscurum/master/books/The_Insect_Folk.pdf
+  
+  
+  Author:
+  Date:
+  Title:
+  Description:
+  Link:
   
