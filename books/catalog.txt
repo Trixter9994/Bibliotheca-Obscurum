@@ -48,6 +48,11 @@ The list of books in this repository:
   Description: A book describing various insects.
   Link: https://raw.githubusercontent.com/Trixter9994/Bibliotheca-Obscurum/master/books/The_Insect_Folk.pdf
   
+  Title: Garden Oats
+  Date: 1914
+  Author: Herbert, Alice
+  Description: Either a autobiography or a fictional story about the main character. 
+  Link: https://raw.githubusercontent.com/Trixter9994/Bibliotheca-Obscurum/master/books/Garden_Oats.pdf
   
   Author:
   Date:
