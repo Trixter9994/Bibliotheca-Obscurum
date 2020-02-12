@@ -48,6 +48,12 @@ The list of books in this repository:
   Description: A book describing the anatomy and life cycle of a bee hive. 
   Link: https://raw.githubusercontent.com/Trixter9994/Bibliotheca-Obscurum/master/books/The_Bee_People.pdf
   
+  Title: The edge of the woods, and other papers
+  Date: 1913
+  Author: Humphrey, Zephine
+  Description: (???) I'm not exactly sure what this book is about, it seems to be poetically talking about different concepts.
+  Link: https://raw.githubusercontent.com/Trixter9994/Bibliotheca-Obscurum/master/books/The_Edge_of_the_Woods.pdf
+
   Title: The four gates
   Date: 1913
   Author: Gareshé, Edward Francis
